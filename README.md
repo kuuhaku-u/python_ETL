@@ -18,7 +18,9 @@
      -- to count the frequency of words in the Text file
      
  ============================================
+ 
  --LOAD--
+ 
   After transform 2 output files for each transfoem function is  created in the directory named
   - Output_first_Transform.txt   for def captial_first_letter(file_name):
   - Output_second_Transform.txt  for def freq_of_words(file_name):
@@ -37,12 +39,13 @@ OPEN CMD AND TYPE
  ---------------------------------------------------
  IMAGES
  --------------------------------------------------
+ INPUT
  
- <p align="center">
-  <img src="" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
-</p>
+![!](SS/s1.JPG)
 
+ OUTPUT
+ 
+ ![!](SS/s2.JPG)
 
  
  
