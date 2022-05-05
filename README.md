@@ -4,6 +4,7 @@
  --EXTRACT--
  
  Text file is extracted using --> with open(sys.argv[-2],'r') as data:
+ 
  then it goes to transfrom functions
  
  ===========================================
@@ -12,8 +13,10 @@
  
  In this there are 2 transform functions to do operations on data which is in .txt format
  2 fucntions are:
+ 
   ---def captial_first_letter(file_name):
      -- to capitalize the first letter of the words in Text document
+     
   ---def freq_of_words(file_name):
      -- to count the frequency of words in the Text file
      
@@ -30,10 +33,15 @@ HOW TO EXECUTE
 ------------------------------------------------------
 
 OPEN CMD AND TYPE
+
  python transformer.py filename1 filename2 
+ 
  where
+ 
  filename1  is for def captial_first_letter(file_name):
+ 
  and 
+ 
  filename2 is for def freq_of_words(file_name):
  
  ---------------------------------------------------
