@@ -9,7 +9,7 @@ import json
 
 
 
-and to connect with sql we need to - 
+ to connect with sql we need to - 
 
 import pyodbc
 
