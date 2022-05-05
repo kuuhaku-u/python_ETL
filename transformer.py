@@ -26,6 +26,8 @@ cursor = conn.cursor()
 
 same for the second transform 
 
+we may need to change few things though when we actually connect it with the code 
+
 '''
 
 ##-- Transform functions Start --##
