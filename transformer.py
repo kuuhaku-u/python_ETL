@@ -1,8 +1,32 @@
 ##-IMPORTS-##
 
+#import pyodbc 
+
 import sys
 import json
 
+'''
+
+
+
+and to connect with sql we need to - 
+
+import pyodbc
+
+and repalce  with open(sys.argv[-2],'r') as data: 
+
+with 
+
+conn = pyodbc.connect('Driver={SQL Server};'
+                      'Server=server_name;'
+                      'Database=database_name;'
+                      'Trusted_Connection=yes;')
+
+cursor = conn.cursor()
+
+same for the second transform 
+
+'''
 
 ##-- Transform functions Start --##
 ##--first transform function  to capitalize first letter--##
